@@ -7,8 +7,7 @@ import vuetify from './plugins/vuetify'
 Vue.use(VueI18n)
 
 const i18n = new VueI18n({
-  locale: "de",
-  fallbackLocale: "en",
+  locale: "en",
   messages: messages.messages
 })
 
