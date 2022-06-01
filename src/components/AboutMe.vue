@@ -6,8 +6,6 @@
       <b>Social Media: </b><br>
       <a href="https://github.com/1Joghurt/" target="_blank" class="logo"><img src="../assets/github_logo.png"
           alt="GitHub" width="40px" height="40px" /></a>
-      <a href="https://www.xing.com/profile/Fabian_Lorenz19/cv" target="_blank" class="logo"><img
-          src="../assets/xing_logo.png" alt="XING" width="40px" height="40px" /></a>
       <a href="https://www.linkedin.com/in/fabian-lorenz-286986185" target="_blank" class="logo"><img
           src="../assets/linkedin_logo.png" alt="LinkedIn" width="40px" height="40px" /></a>
     </v-card-text>

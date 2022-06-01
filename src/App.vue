@@ -23,6 +23,8 @@
       <PublicationPart class="part" />
       <SkillsPart class="part" />
 
+      <div class="copyright">&copy; Fabian Lorenz {{ new Date().getFullYear() }}</div>
+
     </v-main>
   </v-app>
 </template>
@@ -62,5 +64,10 @@ export default {
 
 .part {
   margin: 20px auto 20px auto;
+}
+
+.copyright {
+  text-align: center;
+  margin-bottom: 10px;
 }
 </style>

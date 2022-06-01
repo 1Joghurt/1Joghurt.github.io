@@ -3,7 +3,7 @@
         <v-card-title>{{ $t("publication.headline") }}</v-card-title>
         <v-card-text>
             <v-row class="pt-1">
-                <v-col cols="3">
+                <v-col cols="2">
                     <strong>{{ $t("publication.lsharp_date") }}</strong>
                 </v-col>
                 <v-col>
