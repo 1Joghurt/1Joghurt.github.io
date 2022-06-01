@@ -79,7 +79,7 @@ export default {
 
                 "jobtraining": {
                     "date": "Sep. 2013 – July 2016",
-                    "title": "Duale Ausbildung zum Fachinformatiker – Systemintegration",
+                    "title": "Dual training as IT specialist - system integration",
                     "degree": "Final grade: 1.7",
                     "points": "Areas of focus:<ul><li>Networks</li><li>Object oriented development</li><li>Databases / SQL</li></ul>"
                 }
