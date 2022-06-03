@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import VueI18n from 'vue-i18n'
-import messages from '../shared/i18n'
+import messages from './shared/i18n'
 import vuetify from './plugins/vuetify'
 
 Vue.use(VueI18n)
