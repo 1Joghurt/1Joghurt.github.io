@@ -64,7 +64,7 @@ export default {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .skillrow {
     grid-template-columns: repeat(1, 1fr);
   }

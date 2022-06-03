@@ -19,7 +19,7 @@ export default {
                     "date": "Aug. 2019 – März 2022",
                     "title": "Berufsbegleitendes Studium<br>Bachelor of Science - Informatik",
                     "degree": "Abschlussnote: 1,3",
-                    "points": "Abschlussarbeit: Entwicklung und Evaluation eines Frameworks zur Integration von Logikprogrammierung in die objektorientierte Programmiersprache C# (Note 1.0)<br><br>Weitere Schwerpunkte:<ul><li>Softwareentwicklung</li><li>Praktische Informatik</li><li>IT-Projekt- und Servicemanagement</li><li>Seminararbeit: Grenzen der agilen Methode Scrum</li><li>Projektarbeit: RESTful Client-Server Android-App mit Java Backend</li><li>Fallstudie: Entwurf einer Big-Data-Infrastruktur</li><li>Seminararbeit: Android App für Online Shopping</li></ul>"
+                    "points": "Abschlussarbeit: Entwicklung und Evaluation eines Frameworks zur Integration von Logikprogrammierung in die objektorientierte Programmiersprache C#. (Note 1.0)<br><br>Weitere Schwerpunkte:<ul><li>Softwareentwicklung</li><li>Praktische Informatik</li><li>IT-Projekt- und Servicemanagement</li><li>Seminararbeit: Grenzen der agilen Methode Scrum</li><li>Projektarbeit: RESTful Client-Server Android-App mit Java Backend</li><li>Fallstudie: Entwurf einer Big-Data-Infrastruktur</li><li>Seminararbeit: Android App für Online Shopping</li></ul>"
                 },
 
                 "jobtraining": {
@@ -44,7 +44,7 @@ export default {
                 "lh_ec": {
                     "date": "Sep. 2022 - Jetzt",
                     "title": "Softwareentwickler",
-                    "points": "<ul><li>item1</li><li>item2</li></ul>",
+                    "points": "<ul><li>Architektur und Entwicklung von APIs im .NET Umfeld</li><li>Entwicklung von Web-Apps mit Vue.js</li><li>Analyse von Benutzeranforderungen und Bewertung von Umsetzungsmöglichkeiten</li><li>Erstellung von CI/CD Pipeline mit Azure DevOps</li><li>Erstellung und Orchestrierung von Software-Containern mit Docker und Kubernetes</li></ul>                    ",
                 },
             },
             "publication": {
@@ -108,7 +108,7 @@ export default {
                 "lh_ec": {
                     "date": "Sep. 2022 - Today",
                     "title": "Software developer",
-                    "points": "<ul><li>item1</li><li>item2</li></ul>",
+                    "points": "<ul><li>Architecture and development of APIs in the .NET environment</li><li>Development of web apps with Vue.js</li><li>Analysis of user requirements and evaluation of implementation options</li><li>Creation of CI/CD pipeline using Azure DevOps.</li><li>Creation and orchestration of software containers with Docker and Kubernetes</li></ul>",
                 },
             },
             "publication": {
