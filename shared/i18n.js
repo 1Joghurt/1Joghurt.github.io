@@ -19,7 +19,7 @@ export default {
                     "date": "Aug. 2019 – März 2022",
                     "title": "Berufsbegleitendes Studium<br>Bachelor of Science - Informatik",
                     "degree": "Abschlussnote: 1,3",
-                    "points": "Abschlussarbeit: Entwicklung und Evaluation eines Frameworks zur Integration von Logikprogrammierung in die objektorientierte Programmiersprache C# (Note 1.0)<br><br>Weitere Schwerpunkte:<ul><li>Software Engineering</li><ul><li> Anforderungsmanagement</li><li> Spezifikation</li><li> Objektorientierte Entwicklung</li><li> Qualitätsmanagement</li></ul><li>Praktische Informatik</li><li>IT-Projekt- und Servicemanagement</li><li>Seminararbeit: Grenzen der agilen Methode Scrum</li><li>Projektarbeit: RESTful Client-Server Android-App mit Java Backend</li><li>Fallstudie: Entwurf einer Big-Data-Infrastruktur</li><li>Seminararbeit: Android App für Online Shopping</li></ul>"
+                    "points": "Abschlussarbeit: Entwicklung und Evaluation eines Frameworks zur Integration von Logikprogrammierung in die objektorientierte Programmiersprache C# (Note 1.0)<br><br>Weitere Schwerpunkte:<ul><li>Softwareentwicklung</li><li>Praktische Informatik</li><li>IT-Projekt- und Servicemanagement</li><li>Seminararbeit: Grenzen der agilen Methode Scrum</li><li>Projektarbeit: RESTful Client-Server Android-App mit Java Backend</li><li>Fallstudie: Entwurf einer Big-Data-Infrastruktur</li><li>Seminararbeit: Android App für Online Shopping</li></ul>"
                 },
 
                 "jobtraining": {
@@ -43,18 +43,27 @@ export default {
                 },
                 "lh_ec": {
                     "date": "Sep. 2022 - Jetzt",
-                    "title": "Softwareentwickler eCommerce",
+                    "title": "Softwareentwickler",
                     "points": "<ul><li>item1</li><li>item2</li></ul>",
                 },
             },
             "publication": {
                 "headline": "Veröffentlichung",
-                "lsharp_title": "Expert Systems with Logic#. A Novel Modeling Framework for Logic Programming in an Object-OrientedContext of C#",
+                "lsharp_title": "Expert Systems with Logic#. A Novel Modeling Framework for Logic Programming in an Object-Oriented Context of C#.<br>",
+                "lsharp_link": "<a href='https://arxiv.org/abs/2205.07985' target='_blank'>[PDF]</a>",
                 "lsharp_date": "Mai 2022",
-                "lsharp_text": "Veröffentlichung basierend auf meiner Bachelorarbeit. Die Arbeit zeigt einen Ansatz, wie logische Programmierung in die Objektorientierung integriert werden kann.",
+                "lsharp_text": "Veröffentlichung basierend auf meiner Bachelorarbeit. Die Arbeit zeigt einen Ansatz, wie logische Programmierung in die Objektorientierung integriert werden kann.<br>Für die Veröffentlichung wurde eines von 20 Publikationsstipendien der IU Internationale Hochschule verliehen.",
             },
             "skills": {
                 "headline": "Fähigkeiten",
+                "subheadline_basics": "Grundlegendes",
+                "subheadline_products": "Programmiersprachen, Frameworks & Produkte",
+                "oop": "Objektorientierte Programmierung",
+                "db": "Datenbanken",
+                "do": "DevOps",
+                "pm": "Projektmanagement",
+                "comm": "Kommunikation",
+                "eng": "Englisch (B2)"
             }
         },
         en: {
@@ -74,7 +83,7 @@ export default {
                     "date": "Aug. 2019 – March 2022",
                     "title": "Part-time study<br>Bachelor of Science - computer science",
                     "degree": "Final grade: 1.3",
-                    "points": "Thesis: Development and evaluation of a framework for the integration of logic programming into the object-oriented programming language C# (grade 1.0)<br><br>Further areas of focus:<ul><li>Software Engineering</li><ul><li>Requirements engineering</li><li> Specification</li><li>Object oriented development</li><li>Quality management</li></ul><li>Practical computer science</li><li>IT project and service management</li><li>Paper: Limits of the agile method Scrum</li><li>Project: RESTful client-server Android app with Java backend</li><li>Case study: Design of a Big Data infrastructure</li><li>Paper: Android app for online shopping</li></ul>"
+                    "points": "Thesis: Development and evaluation of a framework for the integration of logic programming into the object-oriented programming language C#. (grade 1.0)<br><br>Further areas of focus:<ul><li>Software Engineering</li>opment</li><li>Quality management</li><li>Practical computer science</li><li>IT project and service management</li><li>Paper: Limits of the agile method Scrum</li><li>Project: RESTful client-server Android app with Java backend</li><li>Case study: Design of a Big Data infrastructure</li><li>Paper: Android app for online shopping</li></ul>"
                 },
 
                 "jobtraining": {
@@ -98,18 +107,27 @@ export default {
                 },
                 "lh_ec": {
                     "date": "Sep. 2022 - Today",
-                    "title": "Software developer eCommerce",
+                    "title": "Software developer",
                     "points": "<ul><li>item1</li><li>item2</li></ul>",
                 },
             },
             "publication": {
                 "headline": "Publication",
-                "lsharp_title": "Expert Systems with Logic#. A Novel Modeling Framework for Logic Programming in an Object-Oriented Context of C#",
+                "lsharp_title": "Expert Systems with Logic#. A Novel Modeling Framework for Logic Programming in an Object-Oriented Context of C#.<br>",
+                "lsharp_link": "<a href='https://arxiv.org/abs/2205.07985' target='_blank'>[PDF]</a>",
                 "lsharp_date": "May 2022",
-                "lsharp_text": "Publication based on my bachelor thesis showing an approach to integrate logical programming into an object- oriented context.",
+                "lsharp_text": "Publication based on my bachelor thesis showing an approach to integrate logical programming into an object- oriented context.<br>The publication received one of 20 publication scholarships from the IU International University",
             },
             "skills": {
                 "headline": "Skills",
+                "subheadline_basics": "Basics",
+                "subheadline_products": "Languages, Frameworks & Products",
+                "oop": "Object-oriented programming",
+                "db": "Databases",
+                "do": "DevOps",
+                "pm": "Project management",
+                "comm": "Communication",
+                "eng": "English (B2)"
             }
         }
     }

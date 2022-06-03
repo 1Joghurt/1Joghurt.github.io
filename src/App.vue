@@ -17,14 +17,14 @@
 
     </v-app-bar>
     <v-main>
-      <AboutMe class="part column1 sticky" />
-      <JobsPart class="part" />
-      <EducationPart class="part" />
-      <PublicationPart class="part" />
-      <SkillsPart class="part" />
-
-      <div class="copyright">&copy; Fabian Lorenz {{ new Date().getFullYear() }}</div>
-
+      <v-responsive class="overflow-y-auto">
+        <AboutMe class="part" />
+        <JobsPart class="part" />
+        <EducationPart class="part" />
+        <PublicationPart class="part" />
+        <SkillsPart class="part" />
+        <div class="copyright">&copy; Fabian Lorenz {{ new Date().getFullYear() }}</div>
+      </v-responsive>
     </v-main>
   </v-app>
 </template>
